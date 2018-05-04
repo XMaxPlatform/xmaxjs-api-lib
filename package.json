@@ -1,0 +1,18 @@
+{
+    "name": "xmaxjs-api",
+    "version": "0.0.1",
+    "description": "Xmax blockchain api structs in json format",
+    "main": "src/index.js",
+    "author": {
+        "name": ""
+    },
+    "scripts": {
+        "test": "mocha src/index.test.js src/**/*.test.js"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "camel-case": "^3.0.0",
+        "xmaxjs-fcbuffer": "file:../xmaxjs-fcbuffer",
+        "mocha": "^3.4.2"  
+    }
+}
