@@ -4,8 +4,8 @@ module.exports = Localnet
 
 const API_VERSION = 'v0'
 
-Localnet.api = require('xmaxjs-json/src/api/v0')
-Localnet.schema = require('xmaxjs-json/src/schema')
+Localnet.api = require('xmaxjs-json-lib/src/api/v0')
+Localnet.schema = require('xmaxjs-json-lib/src/schema')
 
 // Change httpEndpoint to public localnet when available
 const configDefaults = {httpEndpoint: 'http://127.0.0.1:18888'}

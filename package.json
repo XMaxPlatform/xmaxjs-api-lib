@@ -1,5 +1,5 @@
 {
-    "name": "xmaxjs-api",
+    "name": "xmaxjs-api-lib",
     "version": "0.0.1",
     "description": "Xmax blockchain api interfaces",
     "main": "src/index.js",
@@ -13,7 +13,7 @@
     "dependencies": {
         "camel-case": "^3.0.0",
         "isomorphic-fetch": "^2.2.1",
-        "xmaxjs-json": "file:../xmaxjs-json"
+        "xmaxjs-json-lib": "file:../xmaxjs-json-lib"
     },
     "devDependencies": {
         "babel-cli": "^6.26.0",

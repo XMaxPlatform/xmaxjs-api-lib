@@ -1,1 +1,1 @@
-# xmaxjs-api
+# xmaxjs-api-lib
