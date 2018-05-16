@@ -13,7 +13,7 @@
     "dependencies": {
         "camel-case": "^3.0.0",
         "isomorphic-fetch": "^2.2.1",
-        "xmaxjs-json-lib": "file:../xmaxjs-json-lib"
+        "xmaxjs-json-lib": "git+https://github.com/XMaxPlatform/xmaxjs-json-lib.git"
     },
     "devDependencies": {
         "babel-cli": "^6.26.0",
