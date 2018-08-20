@@ -8,7 +8,7 @@ Localnet.api = require('xmaxjs-json-lib/src/api/v0')
 Localnet.schema = require('xmaxjs-json-lib/src/schema')
 
 // Change httpEndpoint to public localnet when available
-const configDefaults = {httpEndpoint: 'http://127.0.0.1:18888'}
+const configDefaults = {httpEndpoint: 'http://127.0.0.1:18801'}
 
 /**
   @arg {object} config
